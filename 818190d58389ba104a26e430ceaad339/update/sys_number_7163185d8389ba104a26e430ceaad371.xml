@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1558372_git_2_git_integration">x_1558372_git_2_git_integration</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>GIT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>Mani</sys_created_by>
+        <sys_created_on>2025-11-05 08:41:07</sys_created_on>
+        <sys_id>7163185d8389ba104a26e430ceaad371</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>GIT</sys_name>
+        <sys_package display_value="Git 2" source="x_1558372_git_2">818190d58389ba104a26e430ceaad339</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git 2">818190d58389ba104a26e430ceaad339</sys_scope>
+        <sys_update_name>sys_number_7163185d8389ba104a26e430ceaad371</sys_update_name>
+        <sys_updated_by>Mani</sys_updated_by>
+        <sys_updated_on>2025-11-05 08:41:07</sys_updated_on>
+    </sys_number>
+</record_update>
