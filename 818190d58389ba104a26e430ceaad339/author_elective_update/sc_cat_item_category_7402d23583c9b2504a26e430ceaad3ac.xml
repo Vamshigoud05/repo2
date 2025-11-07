@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Git RP ">70820e718309b2504a26e430ceaad3f0</sc_cat_item>
+        <sc_category display_value="General">abc78de49f331200d9011977677fcfb2</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>Mani</sys_created_by>
+        <sys_created_on>2025-11-07 07:11:14</sys_created_on>
+        <sys_id>7402d23583c9b2504a26e430ceaad3ac</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>General.Git RP </sys_name>
+        <sys_package display_value="Git 2" source="x_1558372_git_2">818190d58389ba104a26e430ceaad339</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git 2">818190d58389ba104a26e430ceaad339</sys_scope>
+        <sys_update_name>sc_cat_item_category_7402d23583c9b2504a26e430ceaad3ac</sys_update_name>
+        <sys_updated_by>Mani</sys_updated_by>
+        <sys_updated_on>2025-11-07 07:11:14</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Git 2">818190d58389ba104a26e430ceaad339</application>
+        <file_path/>
+        <instance_id>ef1b23b393aca290401cddd548373cbd</instance_id>
+        <instance_name>dev315339</instance_name>
+        <name>sc_cat_item_category_7402d23583c9b2504a26e430ceaad3ac</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Git RP ">70820e718309b2504a26e430ceaad3f0</sc_cat_item><sc_category display_value="General">abc78de49f331200d9011977677fcfb2</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>Mani</sys_created_by><sys_created_on>2025-11-07 07:11:14</sys_created_on><sys_id>7402d23583c9b2504a26e430ceaad3ac</sys_id><sys_mod_count>0</sys_mod_count><sys_name>General.Git RP </sys_name><sys_package display_value="Git 2" source="x_1558372_git_2">818190d58389ba104a26e430ceaad339</sys_package><sys_policy/><sys_scope display_value="Git 2">818190d58389ba104a26e430ceaad339</sys_scope><sys_update_name>sc_cat_item_category_7402d23583c9b2504a26e430ceaad3ac</sys_update_name><sys_updated_by>Mani</sys_updated_by><sys_updated_on>2025-11-07 07:11:14</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>1817455199</payload_hash>
+        <record_name>General.Git RP </record_name>
+        <reverted_from/>
+        <source>4cfb789583c1fa104a26e430ceaad3ae</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Mani</sys_created_by>
+        <sys_created_on>2025-11-07 07:11:14</sys_created_on>
+        <sys_id>bc02d23583c9b2504a26e430ceaad3b3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19a5d27b5d20000001</sys_recorded_at>
+        <sys_updated_by>Mani</sys_updated_by>
+        <sys_updated_on>2025-11-07 07:11:14</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>7802d235e7c9b25071f2e9f6b6c9f5b2</update_guid>
+        <update_guid_history>7802d235e7c9b25071f2e9f6b6c9f5b2:1817455199</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="General.Git RP ">cc52d27583c9b2504a26e430ceaad392</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Mani</sys_created_by>
+        <sys_created_on>2025-11-07 07:12:33</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>07d64abe37754c669aed3f7cfa12c884</sys_id>
+        <sys_metadata>7402d23583c9b2504a26e430ceaad3ac</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>General.Git RP </sys_name>
+        <sys_package display_value="Git 2" source="x_1558372_git_2">818190d58389ba104a26e430ceaad339</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Git 2">818190d58389ba104a26e430ceaad339</sys_scope>
+        <sys_scope_delete display_value="">a6aa75f7bb204d9ead4501f42cb5bf64</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_7402d23583c9b2504a26e430ceaad3ac</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_7402d23583c9b2504a26e430ceaad3ac">bc02d23583c9b2504a26e430ceaad3b3</sys_update_version>
+        <sys_updated_by>Mani</sys_updated_by>
+        <sys_updated_on>2025-11-07 07:12:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
